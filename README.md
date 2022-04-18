@@ -1,2 +1,11 @@
 # hello-world
-Getting back into coding
+just practice
+
+# Header 1
+## Header 2
+### Header 3
+
+**is this bold?**
+*italic*
+> hello
+> hi
