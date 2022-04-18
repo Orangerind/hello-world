@@ -1,2 +1,2 @@
 # hello-world
-Getting back into coding thru this repo
+Getting back into coding
